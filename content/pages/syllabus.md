@@ -52,13 +52,108 @@ Grading Policy
 
 This being a communication-intensive HASS ([CI-H](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)) subject, written assignments of various lengths are an integral part of the learning process. Specifically, grades in this course are based on five components:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Paper 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 25% (5% first draft, 20% final) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Paper 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 25% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Reading responses (6) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 15% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Final exam {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 25% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Recitation attendance and oral participation {{< br >}}{{< br >}} _Recitation attendance is mandatory, and students are expected to be active and productive contributors to discussion in recitation._ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 10% {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Paper 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+25% (5% first draft, 20% final)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Paper 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+25%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Reading responses (6)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+15%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Final exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+25%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Recitation attendance and oral participation
+
+_Recitation attendance is mandatory, and students are expected to be active and productive contributors to discussion in recitation._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+10%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For details on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
