@@ -19,7 +19,7 @@ Lecture 2: Sources of American Discontent
 
 *   Taylor, Keeanga-Yamahtta. “How Do We Change America?” _New Yorker_, June 8, 2020.
 *   Howell, William, and Terry M. Moe. “[Why the President Needs More Power](http://bostonreview.net/politics/william-howell-terry-m-moe-why-president-needs-more-power).” _Boston Review,_ July 2, 2018.
-*   Barber, Michael, and Nolan McCarty.“Causes and Consequences of Polarization.” Chapter 2 in _![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Negotiating Agreement in Politics](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/MansbridgeTF_FinalDraft.pdf)_ [(PDF - 3.2MB)](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/MansbridgeTF_FinalDraft.pdf). Edited by Jane Mansbridge and Cathie Jo Martin. American Political Science Association, 2013. ISBN: 9781878147479.
+*   Barber, Michael, and Nolan McCarty.“Causes and Consequences of Polarization.” Chapter 2 in _[Negotiating Agreement in Politics](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/MansbridgeTF_FinalDraft.pdf)_ [(PDF - 3.2MB)](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/MansbridgeTF_FinalDraft.pdf). Edited by Jane Mansbridge and Cathie Jo Martin. American Political Science Association, 2013. ISBN: 9781878147479.
 *   Starr. Paul. “[The Battle for the Suburbs](https://www.nybooks.com/articles/2019/09/26/cities-lose-battle-for-the-suburbs/).” _New York Review of Books_, September 26, 2019.
 
 II. Fundamentals: Democracy, Elections, and Representation
@@ -31,7 +31,7 @@ Lecture 3: Representation and Responsiveness
 *   — — —. Selections from “Formalistic Views of Representation.” Chapter 3 in _The Concept of Representation_. University of California Press, 1972. ISBN: ‎9780520021563. \[Preview with [Google Books](https://www.google.com/books/edition/The_Concept_of_Representation/yaEwDwAAQBAJ?hl=en&gbpv=1)\]
 *   — — —. Selections from “‘Standing For’: Descriptive Representation.” Chapter 4 in _The Concept of Representation_. University of California Press, 1972. ISBN: ‎9780520021563.
 *   — — —. Selections from “Representing As ‘Acting For’: The Analogies.” Chapter 6 in _The Concept of Representation_. University of California Press, 1972. ISBN: ‎9780520021563.
-*   Mansbridge, Jane. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Should Blacks Represent Blacks and Women Represent Women? A Contingent ‘Yes’.” (PDF - 1.8MB)](https://wappp.hks.harvard.edu/files/wappp/files/should_blacks_represent_blacks_and_women_represent_women_a_contingent_yes1.pdf) _Journal of Politics_ 61, no. 3 (1999): 628–57.
+*   Mansbridge, Jane. [“Should Blacks Represent Blacks and Women Represent Women? A Contingent ‘Yes’.” (PDF - 1.8MB)](https://wappp.hks.harvard.edu/files/wappp/files/should_blacks_represent_blacks_and_women_represent_women_a_contingent_yes1.pdf) _Journal of Politics_ 61, no. 3 (1999): 628–57.
 *   Gilens, Martin. “Citizen Competence and Democratic Decision Making.” Chapter 1 in _Affluence & Influence: Economic Inequality and Political Power in America._ Princeton University Press, 2012, pp. 12–24. ISBN: ‎ 9780691162423. \[Preview with [Google Books](https://www.google.com/books/edition/Affluence_and_Influence/_hxXpVlF8XYC?hl=en&gbpv=1&dq=Affluence+and+Influence&printsec=frontcover)\]
 *   Schlozman, Kay Lehman, Sidney Verba, and Henry E. Brady. “Introduction: Democracy and Political Voice.” Chapter 1 in _The Unheavenly Chorus: Unequal Political Voice and the Broken Promise of American Democracy_. Princeton University Press, 2013, pp. 1–8. ISBN: ‎9780691159867. \[Preview with [Google Books](https://www.google.com/books/edition/The_Unheavenly_Chorus/0mmYDwAAQBAJ?hl=en&gbpv=1)\]
 
@@ -96,7 +96,7 @@ Lecture 12: The Judiciary
 *   — — —. “Models of Decision Making: The Legal Model.” Chapter 2 in _The Supreme Court and the Attitudinal Model Revisited_. Cambridge University Press, 2002, pp. 44–53. ISBN: ‎9780521789714. \[Preview with [Google Books](https://www.google.com/books/edition/The_Supreme_Court_and_the_Attitudinal_Mo/ULG_G5xLTCwC?hl=en&gbpv=1)\]
 *   — — —. “Models of Decision Making: The Attitudinal and Rational Choice Models.” Chapter 3 in _The Supreme Court and the Attitudinal Model Revisited_. Cambridge University Press, 2002, pp. 86–100. ISBN: ‎9780521789714. \[Preview with [Google Books](https://www.google.com/books/edition/The_Supreme_Court_and_the_Attitudinal_Mo/ULG_G5xLTCwC?hl=en&gbpv=1)\]
 *   \[K\] Rosenberg, Gerald N. Chapter 8.1: From _The Hollow Hope: Can Courts Bring About Social Change?_
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Brown v. Board of Education, 347 U.S. 483_: Earl Warren Delivered the Opinion of the Court (PDF)](http://landmarkcases.c-span.org/pdf/Brown_Warren_Opinion.pdf). 
+*   [_Brown v. Board of Education, 347 U.S. 483_: Earl Warren Delivered the Opinion of the Court (PDF)](http://landmarkcases.c-span.org/pdf/Brown_Warren_Opinion.pdf). 
 
 Lecture 13: Parties
 
